@@ -41,8 +41,8 @@ pip install -r requirements.txt
 4. Run the application:  
 python app.py
 
-5. Open your browser and go to:  
-http://127.0.0.1:5000
+5. View the live deployment:
+   Click here to open the application: [Live Demo Link](https://credit-card-spending-analyzer.onrender.com)
 
 ---
 ## Example CSV Dataset
